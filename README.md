@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my side projects<br>🚀 I'm looking for internships <br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Golang and Docker<br>💬 Ask me about React and Nextjs<br>⚡ Fun fact -: I love to read books!!
+🔭 I’m currently working as an Open Source Mentee @[AsyncAPI](https://www.asyncapi.com/) <br>🚀 I'm looking for internships <br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning Golang and Docker<br>💬 Ask me about React and Nextjs<br>⚡ Fun fact -: I love to read books!!
 
 
 ## 🌐 Socials:
